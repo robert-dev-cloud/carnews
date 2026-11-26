@@ -1,6 +1,42 @@
 {
- "generatedAt": "2026-11-23T15:05:03+08:00",
+ "generatedAt": "2026-11-26T08:37:34+08:00",
  "items": [
+  {
+   "id": "tpepolice-e95472ee4720",
+   "published": "2026-11-25",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "有關115年11月27日凱達格蘭大道等路段舉行集會活動實施交通管制、疏導措施說明",
+   "headline": "有關115年11月27日凱達格蘭大道等路段舉行集會活動實施交通管制、疏導措施說明",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=C1D0522AD153F3C6",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
+  {
+   "id": "tpepolice-8c2b97ea4336",
+   "published": "2026-11-24",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "115年11月27、28日市政府周邊道路舉辦集會活動實施交通管制說明",
+   "headline": "115年11月27、28日市政府周邊道路舉辦集會活動實施交通管制說明",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=6D0670EAA89DF803",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
   {
    "id": "gaz-9510524a27cf",
    "published": "2026-11-20",
@@ -101,24 +137,6 @@
    "region": "臺北市"
   },
   {
-   "id": "tpepolice-b9c84a7e4a87",
-   "published": "2026-11-13",
-   "agency": "臺北市政府警察局交通警察大隊",
-   "kind": "新聞稿",
-   "title": "「1114集會遊行」活動交通疏導、管制措施",
-   "headline": "「1114集會遊行」活動交通疏導、管制措施",
-   "points": [],
-   "pointsFrom": "",
-   "effective": "",
-   "impact": "",
-   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=F251A86795480C33",
-   "audience": "一般車主",
-   "topics": [
-    "地方交通消息"
-   ],
-   "region": "臺北市"
-  },
-  {
    "id": "ntpctraffic-6bc4b7306515",
    "published": "2026-11-13",
    "agency": "新北市政府交通局",
@@ -135,6 +153,24 @@
     "地方交通消息"
    ],
    "region": "新北市"
+  },
+  {
+   "id": "tpepolice-b9c84a7e4a87",
+   "published": "2026-11-13",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "「1114集會遊行」活動交通疏導、管制措施",
+   "headline": "「1114集會遊行」活動交通疏導、管制措施",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=F251A86795480C33",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
   },
   {
    "id": "ntpctraffic-e7326d30fc1d",
