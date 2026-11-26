@@ -1,0 +1,35 @@
+# 每天清一次伺服器（Supabase）上的舊資料：
+#   1. 7 天前的回報和它們的照片
+#   2. 儲存空間裡沒有人在用的檔案（上傳了卻沒發出去的照片、被管理者刪掉的回報留下的照片、換頭像沒刪乾淨的舊檔）
+# 需要兩個 Secrets：SUPABASE_URL、SUPABASE_SERVICE_ROLE_KEY（設定方式見 README「自動清除」那一節）。
+# 沒設定或清除失敗，這次執行會顯示紅色的叉，GitHub 也會寄信通知。
+name: 清除舊資料
+
+on:
+  schedule:
+    # 時間是 UTC。台灣時間每天 04:23 跑一次
+    - cron: "23 20 * * *"
+  workflow_dispatch: {}   # 可以在 GitHub 網頁上手動按「Run workflow」
+
+permissions:
+  contents: read
+
+concurrency:
+  group: purge
+  cancel-in-progress: false
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 清除 7 天前的回報和沒人用的檔案
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          PURGE_REQUIRED: "1"
+        run: python3 purge.py
