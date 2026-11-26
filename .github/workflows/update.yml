@@ -1,0 +1,46 @@
+# 每天自動抓政府公告，更新 public/announcements.json。App 會從這個檔下載最新公告。
+name: 更新公告
+
+on:
+  schedule:
+    # 時間是 UTC。台灣時間 06:17、12:17、18:17 各跑一次
+    - cron: "17 22,4,10 * * *"
+  workflow_dispatch: {}   # 可以在 GitHub 網頁上手動按「Run workflow」
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-announcements
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 安裝 pdftotext
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: 測試
+        run: python3 -m unittest test_rules test_auto
+      - name: 抓資料並輸出
+        env:
+          # 選填。沒設定就不做 AI 白話摘要，公告照常更新
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: bash run_daily.sh
+      - name: 有變動才提交
+        run: |
+          git config user.name "announcements-bot"
+          git config user.email "announcements-bot@users.noreply.github.com"
+          git add public/announcements.json
+          [ -f data/plain_auto.json ] && git add data/plain_auto.json
+          if git diff --cached --quiet; then
+            echo "沒有變動"
+          else
+            git commit -m "更新公告 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
