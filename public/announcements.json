@@ -1,0 +1,426 @@
+{
+ "generatedAt": "2026-11-23T15:05:03+08:00",
+ "items": [
+  {
+   "id": "gaz-9510524a27cf",
+   "published": "2026-11-20",
+   "agency": "交通部",
+   "kind": "草案預告",
+   "title": "交通部公告：預告「道路交通安全規則」第38條修正草案",
+   "headline": "交通部公告：預告「道路交通安全規則」第38條修正草案",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032215/ch06/type3/gov50/num20/Eg.htm",
+   "audience": "一般車主",
+   "topics": [
+    "罰則與交通規則",
+    "驗車與改裝"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "tpepolice-16fa0cd0f5b3",
+   "published": "2026-11-19",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "「2026 NS RUN 南山人壽半程馬拉松」週日登場 相關交通管制措施，請用路人提前改道行駛",
+   "headline": "「2026 NS RUN 南山人壽半程馬拉松」週日登場 相關交通管制措施，請用路人提前改道行駛",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=896C78F61B6CBE3D",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
+  {
+   "id": "gaz-c4465360983a",
+   "published": "2026-11-17",
+   "agency": "交通部",
+   "kind": "法規",
+   "title": "交通部令：修正「計程車客運服務業申請核准經營辦法」部分條文，自115年11月17日施行",
+   "headline": "叫車平台納管：網路派遣計程車的平台要申請營業執照",
+   "points": [
+    "以網路平台提供計程車派遣服務的業者，納入計程車客運服務業管理，要限期辦妥營業執照。",
+    "同一輛計程車可加入的派遣業者家數不再受限。",
+    "平台要顯示車輛和駕駛基本資訊，確認派車後不得無正當理由取消載客。",
+    "派遣服務費調整要經公路主管機關同意。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "2026-11-17 起施行",
+   "impact": "對象是計程車業者和駕駛；乘客用平台叫車時資訊會更透明。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032212/ch06/type1/gov50/num20/Eg.htm",
+   "audience": "營業車",
+   "topics": [
+    "罰則與交通規則",
+    "驗車與改裝"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "gaz-31c4f9d007ba",
+   "published": "2026-11-17",
+   "agency": "經濟部標準檢驗局",
+   "kind": "法規",
+   "title": "經濟部標準檢驗局公告：修正「應施檢驗電源供應設備類之二次鋰行動電源等商品之相關檢驗規定」，自即日生效",
+   "headline": "行動電源等鋰電池商品的檢驗規定修正",
+   "points": [
+    "標準檢驗局修正二次鋰行動電源等商品的檢驗規定，內容提到電動機車、電動輔助自行車用電池。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "即日生效",
+   "impact": "對象是製造商和進口商。官方未提供總說明，細節請看原文。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032212/ch04/type1/gov31/num9/Eg.htm",
+   "audience": "車廠與業者",
+   "topics": [
+    "電動車"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "tpepolice-f9a0ea58c2e4",
+   "published": "2026-11-14",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "網傳宣傳車未依規定懸掛車牌 北市警依法舉發",
+   "headline": "網傳宣傳車未依規定懸掛車牌 北市警依法舉發",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=FDD9C5A11B26C16E",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
+  {
+   "id": "tpepolice-b9c84a7e4a87",
+   "published": "2026-11-13",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "「1114集會遊行」活動交通疏導、管制措施",
+   "headline": "「1114集會遊行」活動交通疏導、管制措施",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=F251A86795480C33",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
+  {
+   "id": "ntpctraffic-6bc4b7306515",
+   "published": "2026-11-13",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "新北3萬格路邊停車位即時查！明年1月底全面智慧化，開車找車位免碰運氣",
+   "headline": "新北3萬格路邊停車位即時查！明年1月底全面智慧化，開車找車位免碰運氣",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=40450c377489caa63f10b8523868be5a",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  },
+  {
+   "id": "ntpctraffic-e7326d30fc1d",
+   "published": "2026-11-11",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "五股交流道北入匝道明通車！台65線直上國1省12分鐘 侯友宜：肯定交通改善 籲中央加速核定五泰輕軌",
+   "headline": "五股交流道北入匝道明通車！台65線直上國1省12分鐘 侯友宜：肯定交通改善 籲中央加速核定五泰輕軌",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=bc0b29b4669ba27602006e744b56856b",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  },
+  {
+   "id": "ntpctraffic-52de6591afba",
+   "published": "2026-11-11",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "新北歡樂耶誕城夢幻開城 四鐵串聯輕鬆賞燈交通局籲多搭大眾運輸 免塞車、免找車位",
+   "headline": "新北歡樂耶誕城夢幻開城 四鐵串聯輕鬆賞燈交通局籲多搭大眾運輸 免塞車、免找車位",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=bc0b29b4669ba276829d5046d68123b7",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  },
+  {
+   "id": "gaz-eb2d10dfe24d",
+   "published": "2026-11-10",
+   "agency": "環境部",
+   "kind": "草案預告",
+   "title": "環境部公告：預告「老舊車輛汰舊換新空氣污染物減量補助辦法」第2條、第5條、第6條及第8條附表修正草案",
+   "headline": "老車換新車補助擬延長到 2030 年底（草案）",
+   "points": [
+    "補助原訂 2026 年底到期，草案要延到 2030-12-31，申請期限延到 2031-01-10。",
+    "換購油電混合動力車的適用條件和補助方式會寫得更清楚。",
+    "申請文件放寬：新車發票上的車輛資訊，牌照、車身或引擎號碼擇一即可。",
+    "受認可電動機車的定義改以「購買時」為準。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "草案，尚未生效。意見徵詢到 2026-11-24",
+   "impact": "車齡滿 10 年、打算換車的人可以留意正式公告。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032207/ch07/type3/gov60/num28/Eg.htm",
+   "audience": "一般車主",
+   "topics": [
+    "排氣與空污",
+    "電動車"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "gaz-1721f8ac0e5a",
+   "published": "2026-11-10",
+   "agency": "環境部",
+   "kind": "草案預告",
+   "title": "環境部公告：預告「交通工具排放空氣污染物審查費證書費收費標準」第2條、第3條修正草案",
+   "headline": "車型排氣審驗的審查費擬調漲（草案）",
+   "points": [
+    "環境部擬依物價和行政成本，調高車廠申請車型排氣審驗合格證明的審查費。",
+    "新增車上診斷系統測試計畫等項目的審查費。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "草案，尚未生效。意見徵詢到 2027-01-11",
+   "impact": "費用由車廠和進口商繳納，一般車主不用繳。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032207/ch07/type3/gov60/num29/Eg.htm",
+   "audience": "車廠與業者",
+   "topics": [
+    "排氣與空污"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "ntpctraffic-d896f91b7301",
+   "published": "2026-11-10",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "2026新北歡樂耶誕城13日開城 搭乘大眾運輸最方便 周邊交通疏導管制看這裡",
+   "headline": "2026新北歡樂耶誕城13日開城 搭乘大眾運輸最方便 周邊交通疏導管制看這裡",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=4494e5de66a244999ebeea57577a48d6",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  },
+  {
+   "id": "gaz-c0c4567b13c7",
+   "published": "2026-11-06",
+   "agency": "交通部、內政部",
+   "kind": "法規",
+   "title": "交通部、內政部令：修正「道路交通安全規則」第52條之1、第61條之1條文，自115年11月6日施行",
+   "headline": "職業駕駛延齡放寬：屆齡換成普通駕照的人可再申請職業駕照",
+   "points": [
+    "因應客貨運缺駕駛，已屆齡換領普通駕照的大型車駕駛，符合體檢和認知功能測驗等條件可再申請職業駕照。",
+    "經核准的公路客運業，65 歲以上駕駛不受「只能在早上 6 點到下午 6 點開車」的限制。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "2026-11-06 起施行",
+   "impact": "只跟職業駕駛有關。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032205/ch06/type1/gov50/num18/Eg.htm",
+   "audience": "營業車",
+   "topics": [
+    "駕照與考照",
+    "罰則與交通規則"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "gaz-4ebdb24c2761",
+   "published": "2026-11-06",
+   "agency": "經濟部標準檢驗局",
+   "kind": "法規",
+   "title": "經濟部標準檢驗局公告：修正「應施檢驗電源供應設備類之電動機車用非車載型充電器等商品之相關檢驗規定」，自即日生效",
+   "headline": "電動機車用充電器的商品檢驗規定修正",
+   "points": [
+    "標準檢驗局修正電動機車非車載型充電器等商品的檢驗規定。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "即日生效",
+   "impact": "對象是製造商和進口商。官方未提供總說明，細節請看原文。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032205/ch04/type1/gov31/num7/Eg.htm",
+   "audience": "車廠與業者",
+   "topics": [
+    "電動車"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "gaz-cb5e72700e9c",
+   "published": "2026-11-06",
+   "agency": "交通部",
+   "kind": "法規",
+   "title": "交通部令：修正「汽車運輸業管理規則」第19條之7條文",
+   "headline": "公路客運尖峰時段可調派 65 歲以上駕駛",
+   "points": [
+    "公路客運業因尖峰疏運需要，可申請讓 65 歲以上駕駛在下午 6 點後執勤。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "已發布",
+   "impact": "只跟客運業者和職業駕駛有關。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032205/ch06/type1/gov50/num17/Eg.htm",
+   "audience": "營業車",
+   "topics": [
+    "駕照與考照",
+    "國道與路況"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "gaz-21265810ab39",
+   "published": "2026-11-06",
+   "agency": "交通部",
+   "kind": "草案預告",
+   "title": "交通部公告：預告「車輛型式安全審驗管理辦法」第14條附表修正草案",
+   "headline": "新車安全法規擬新增：防誤踩油門、車道維持輔助（草案）",
+   "points": [
+    "交通部比照聯合國車輛安全法規，擬新增「防止誤踩踏板之加速控制系統」檢測項目。",
+    "同時新增自動車道維持輔助、駕駛人控制輔助系統，以及電動汽車電氣安全的檢測基準。",
+    "修正轉彎及倒車警報裝置的安裝規定。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "草案，尚未生效。意見徵詢到 2027-01-05",
+   "impact": "規範對象是車廠和進口商，影響的是未來上市的新車，現有車輛不用改。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032205/ch06/type3/gov50/num19/Eg.htm",
+   "audience": "車廠與業者",
+   "topics": [
+    "驗車與改裝",
+    "電動車"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "ntpctraffic-7bac346ff475",
+   "published": "2026-11-05",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "永平國小地下停車場930格汽、機車位到位 校園、停車、捷運一次升級",
+   "headline": "永平國小地下停車場930格汽、機車位到位 校園、停車、捷運一次升級",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=2e0f41235b697cf738957c61fa1ad936",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  },
+  {
+   "id": "gaz-9f28183717c1",
+   "published": "2026-11-02",
+   "agency": "交通部、內政部",
+   "kind": "法規",
+   "title": "交通部、內政部令：修正「違反道路交通管理事件統一裁罰基準及處理細則」部分條文及第2條附表，自115年10月31日施行",
+   "headline": "裁罰基準表更新：毒駕、無照等罰鍰提高，更多情況會沒入車輛",
+   "points": [
+    "配合 8 月修正的道路交通管理處罰條例，更新各項違規的統一裁罰金額表。",
+    "無照駕駛、酒駕毒駕相關條文的罰鍰提高，並增加沒入車輛的處分。",
+    "腳踏車、電動自行車、微型電動二輪車等慢車，遇酒測或毒品檢測點不停車受檢，會當場禁止駕駛；微型電動二輪車會被移置保管。",
+    "拒絕唾液毒品快篩的罰鍰和沒入車輛規定，警察會在現場告知。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "2026-10-31 起施行",
+   "impact": "實際金額請看官方裁罰基準表，本摘要不列數字。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032201/ch06/type1/gov50/num12/Eg.htm",
+   "audience": "一般車主",
+   "topics": [
+    "罰則與交通規則",
+    "駕照與考照"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "gaz-8e6522d4e928",
+   "published": "2026-11-02",
+   "agency": "交通部、內政部",
+   "kind": "法規",
+   "title": "交通部、內政部令：修正「道路交通安全規則」第50條、第62條、第63條條文，自115年10月31日施行",
+   "headline": "毒駕被吊銷駕照，重考合格後要再觀察一年才發照",
+   "points": [
+    "曾毒駕或被警察機關確認施用毒品的人，考照合格後，一年內沒有再犯才會拿到駕照。",
+    "沒完成毒駕防制教育、勒戒、戒癮治療或毒品危害講習，不能報名考照。",
+    "報名時要附上完成上述課程或治療的證明。"
+   ],
+   "pointsFrom": "ai",
+   "effective": "2026-10-31 起施行",
+   "impact": "一般守法駕駛不受影響。",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032201/ch06/type1/gov50/num11/Eg.htm",
+   "audience": "一般車主",
+   "topics": [
+    "駕照與考照",
+    "罰則與交通規則"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "ntpctraffic-552d1eb3a9b1",
+   "published": "2026-10-30",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "使用者付費兼具提升周轉率 淡水等4區路邊停車格11月起收費管理",
+   "headline": "使用者付費兼具提升周轉率 淡水等4區路邊停車格11月起收費管理",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=92f2aab6ccecd23a9af90c5ec3ae63b2",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  },
+  {
+   "id": "ntpctraffic-9cd7048da078",
+   "published": "2026-10-28",
+   "agency": "新北市政府交通局",
+   "kind": "新聞稿",
+   "title": "交通罰單不用跑臨櫃！手機就能輕鬆繳新北交通違規罰鍰多元繳費使用率逾八成 省時又便利",
+   "headline": "交通罰單不用跑臨櫃！手機就能輕鬆繳新北交通違規罰鍰多元繳費使用率逾八成 省時又便利",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.traffic.ntpc.gov.tw/home.jsp?id=54fa46e9e522dde4&act=be4f48068b2b0031&dataserno=ea7aadc3c2eb0509440e201ca402b8e2",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "新北市"
+  }
+ ]
+}
