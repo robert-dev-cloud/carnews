@@ -1,6 +1,43 @@
 {
- "generatedAt": "2026-11-27T13:27:55+08:00",
+ "generatedAt": "2026-11-27T19:09:31+08:00",
  "items": [
+  {
+   "id": "gaz-6168aabe982d",
+   "published": "2026-11-27",
+   "agency": "行政院",
+   "kind": "專載",
+   "title": "行政院第4030次會議院長提示暨院會決定決議事項",
+   "headline": "行政院第4030次會議院長提示暨院會決定決議事項",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032220/ch09/type9/gov01/num23/Eg.htm",
+   "audience": "一般車主",
+   "topics": [
+    "排氣與空污",
+    "稅費與補助"
+   ],
+   "region": "全國"
+  },
+  {
+   "id": "tpepolice-b41411dfaea1",
+   "published": "2026-11-27",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "選前之夜在即!北市警分時分段交管 籲用路人提前改道",
+   "headline": "選前之夜在即!北市警分時分段交管 籲用路人提前改道",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=D6D0A1BC818E8C43",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
   {
    "id": "tpepolice-40d22ae6ae32",
    "published": "2026-11-27",
