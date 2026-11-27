@@ -1,6 +1,42 @@
 {
- "generatedAt": "2026-11-27T07:14:02+08:00",
+ "generatedAt": "2026-11-27T13:27:55+08:00",
  "items": [
+  {
+   "id": "tpepolice-40d22ae6ae32",
+   "published": "2026-11-27",
+   "agency": "臺北市政府警察局交通警察大隊",
+   "kind": "新聞稿",
+   "title": "有關115年11月27日凱達格蘭大道等路段舉行集會活動上午尖峰時段路況及警方交通疏導作為說明",
+   "headline": "有關115年11月27日凱達格蘭大道等路段舉行集會活動上午尖峰時段路況及警方交通疏導作為說明",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://td.police.gov.taipei/News_Content.aspx?n=B19CFD7B4346611D&sms=72544237BBE4C5F6&s=8AC28A5BF6B25116",
+   "audience": "一般車主",
+   "topics": [
+    "地方交通消息"
+   ],
+   "region": "臺北市"
+  },
+  {
+   "id": "motc-b8df69136606",
+   "published": "2026-11-26",
+   "agency": "交通部",
+   "kind": "新聞稿",
+   "title": "11月26日4時38分發生國道1號南向200K發生重大追撞車禍事故說明",
+   "headline": "11月26日4時38分發生國道1號南向200K發生重大追撞車禍事故說明",
+   "points": [],
+   "pointsFrom": "",
+   "effective": "",
+   "impact": "",
+   "url": "https://www.motc.gov.tw/ch/app/news_list/view?module=news&id=14&serno=0e13b8fe-fc2b-4da9-afd7-83d5ace05126",
+   "audience": "一般車主",
+   "topics": [
+    "國道與路況"
+   ],
+   "region": "全國"
+  },
   {
    "id": "tpepolice-e95472ee4720",
    "published": "2026-11-25",
